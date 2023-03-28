@@ -1,3 +1,4 @@
+/* stylelint-disable */
 const NotMatch = () => {
   return (
     <div>

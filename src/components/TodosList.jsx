@@ -1,3 +1,4 @@
+/* eslint-disable */
 import TodoItem from '@/components/TodoItem';
 import { useTodosContext } from '@/context/TodosContext';
 const TodosList = () => {

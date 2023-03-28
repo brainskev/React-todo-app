@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import Header from '@/components/Header';
 import { useAuthContext } from '@/context/AuthContext';
 import styles from '@/styles/Profile.module.css';

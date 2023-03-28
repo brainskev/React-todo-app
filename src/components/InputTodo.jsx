@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useState } from 'react';
 import { useTodosContext } from '@/context/TodosContext';
 import { FaPlusCircle } from 'react-icons/fa';

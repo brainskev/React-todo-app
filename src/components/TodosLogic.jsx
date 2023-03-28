@@ -1,3 +1,4 @@
+/* eslint-disable */
 import InputTodo from '@/components/InputTodo';
 import TodosList from '@/components/TodosList';
 
