@@ -1,4 +1,4 @@
-/* stylelint-disable */
+/* eslint-disable */
 import { useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 

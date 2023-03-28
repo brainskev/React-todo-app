@@ -1,4 +1,4 @@
-/* stylelint-disable */
+/* eslint-disable */
 import Header from '@/components/Header';
 import { NavLink, Outlet } from 'react-router-dom';
 const About = () => {
